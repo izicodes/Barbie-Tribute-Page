@@ -1,2 +1,2 @@
-# Barbie-Tribute-Page
+# Barbie Tribute Page
 A tribute dedicated to Barbie! 💕
