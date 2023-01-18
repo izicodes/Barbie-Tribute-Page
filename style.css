@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #ecd9d8;
+	padding: 0;
+	height: 100vh;
+}
+
+:root {
+	--purple: #92719a;
+	--black: #282525;
+}
+
+main {
+	border: 2px solid var(--purple);
+	margin: 0 auto;
+	width: 500px;
+}
