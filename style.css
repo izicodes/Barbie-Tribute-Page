@@ -45,3 +45,41 @@ nav {
 	font-weight: bold;
 	font-size: 1.2em;
 }
+
+/* SECTION 1 */
+.container1 {
+	display: flex;
+	height: max-content;
+}
+
+section:not(.s3):not(.s5) {
+	border-right: var(--border);
+}
+.s1 {
+	background-color: var(--purple);
+	width: 60%;
+	height: 500px;
+	color: aliceblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-text {
+	width: 70%;
+	border: 4px dotted aliceblue;
+}
+h1 {
+	text-align: center;
+}
+p {
+	margin: 0 auto;
+}
+
+.s2 {
+	background-color: rgb(41, 174, 174);
+	width: 10%;
+}
+.s3 {
+	background-color: rgb(72, 94, 94);
+	width: 30%;
+}
