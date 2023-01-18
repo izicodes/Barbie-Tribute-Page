@@ -54,7 +54,7 @@ nav {
 /* SECTION 1 */
 .container1 {
 	display: flex;
-	height: max-content;
+	height: 670px;
 }
 
 section:not(.s3):not(.s5) {
@@ -120,4 +120,9 @@ h1 {
 .s3 {
 	background-color: rgb(72, 94, 94);
 	width: 30%;
+	display: flex;
+}
+.s3 > img {
+	width: 100%;
+	position: relative;
 }
